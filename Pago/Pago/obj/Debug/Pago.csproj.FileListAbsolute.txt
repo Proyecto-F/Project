@@ -1,0 +1,12 @@
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\bin\Debug\Pago.exe.config
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\bin\Debug\Pago.exe
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\bin\Debug\Pago.pdb
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.csprojAssemblyReference.cache
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.PagoEfectivo.resources
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.PagoTarjeta.resources
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.Properties.Resources.resources
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.csproj.GenerateResource.cache
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.exe
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.pdb
+C:\Users\Miguel Villegas\Desktop\jon\progra\Pago\Pago\obj\Debug\Pago.Entrada.resources
