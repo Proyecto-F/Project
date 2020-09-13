@@ -1,0 +1,12 @@
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\bin\Debug\ProyectoFinal-Sistema de Ingreso.exe.config
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\bin\Debug\ProyectoFinal-Sistema de Ingreso.exe
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\bin\Debug\ProyectoFinal-Sistema de Ingreso.pdb
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal-Sistema de Ingreso.csprojAssemblyReference.cache
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal_Sistema_de_Ingreso.Properties.Resources.resources
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal-Sistema de Ingreso.csproj.GenerateResource.cache
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal-Sistema de Ingreso.csproj.CoreCompileInputs.cache
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal-Sistema de Ingreso.exe
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal-Sistema de Ingreso.pdb
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal_Sistema_de_Ingreso.Ingresar.resources
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal_Sistema_de_Ingreso.Principal.resources
+C:\Users\MARTHA\OneDrive\Tercer Semestre 2020\PROGRAMACIÓN  II\Proyecto Final\ProyectoFinal-Sistema de Ingreso\obj\Debug\ProyectoFinal_Sistema_de_Ingreso.Registrar.resources
